@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
+<title id="title">Nabil Et-taqy — Developer</title><desc id="desc">Dark terminal-inspired banner in muted cyan, showing the name Nabil Et-taqy and specialities in software, data and privacy.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0B1118"/><stop offset="1" stop-color="#15242D"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#C2DFE3"/><stop offset="1" stop-color="#5C909D"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9DB4C0" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+  <clipPath id="clip"><rect x="0" y="0" width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="340" fill="url(#bg)"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="1038" cy="164" r="148" fill="none" stroke="#C2DFE3" stroke-opacity=".075" stroke-width="1"/>
+<circle cx="1038" cy="164" r="117" fill="none" stroke="#C2DFE3" stroke-opacity=".13" stroke-width="1" stroke-dasharray="4 11"/>
+<circle cx="1038" cy="164" r="86" fill="none" stroke="#C2DFE3" stroke-opacity=".22" stroke-width="1"/>
+<circle cx="1038" cy="164" r="43" fill="#8DB9C1" opacity=".08" filter="url(#glow)"/>
+<path d="M790 257C856 235 871 183 941 193S1062 244 1123 168S1200 69 1262 97" fill="none" stroke="#9DB4C0" stroke-opacity=".28" stroke-width="2"/>
+<path d="M760 286C849 274 875 218 932 226S1055 279 1125 204S1210 121 1262 133" fill="none" stroke="#C2DFE3" stroke-opacity=".13" stroke-width="2"/>
+<g fill="#C2DFE3"><circle cx="911" cy="197" r="4"/><circle cx="1063" cy="220" r="4"/><circle cx="1154" cy="125" r="4"/></g>
+<g stroke="#7EA1AB" stroke-opacity=".35" stroke-width="2" fill="none"><path d="M905 197l-40 -27 -35 16"/><path d="M1063 220l44 20 48 -18"/><path d="M1038 73V44M1038 256v30M947 164h-29M1129 164h29"/></g>
+<rect x="29" y="28" width="1142" height="284" rx="12" fill="none" stroke="#9DB4C0" stroke-opacity=".23"/>
+<path d="M29 74h1142" stroke="#9DB4C0" stroke-opacity=".19"/>
+<circle cx="53" cy="51" r="5.5" fill="#B96B74"/><circle cx="74" cy="51" r="5.5" fill="#D0AC71"/><circle cx="95" cy="51" r="5.5" fill="#79AFA6"/>
+<text x="126" y="56" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="13" fill="#8FAAB2" letter-spacing="1">nabil@localhost: ~/profile</text>
+<text x="73" y="117" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="16" fill="#79B8BC">$ whoami</text>
+<text x="69" y="179" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1" fill="url(#accent)">NABIL ET-TAQY</text>
+<text x="72" y="219" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="17" fill="#A8BCC3">software / data / privacy / systems</text>
+<rect x="73" y="249" width="103" height="28" rx="4" fill="#C2DFE3" fill-opacity=".10" stroke="#C2DFE3" stroke-opacity=".35"/>
+<text x="92" y="267.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#C2DFE3">BUILD</text>
+<rect x="187" y="249" width="113" height="28" rx="4" fill="#C2DFE3" fill-opacity=".08" stroke="#C2DFE3" stroke-opacity=".27"/>
+<text x="205" y="267.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#C2DFE3">EXPLORE</text>
+<rect x="311" y="249" width="104" height="28" rx="4" fill="#C2DFE3" fill-opacity=".06" stroke="#C2DFE3" stroke-opacity=".25"/>
+<text x="328" y="267.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#C2DFE3">REPEAT</text>
+<text x="1095" y="293" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" fill="#8FAAB2">01 / ∞</text>
+</g>
+</svg>
